@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm a passionate and creative software developer who loves solving problems with elegant solutions. I've completed a Bachelor's degree in Computer Engineering and 7 years of experience in full-stack web development.<br><br>✨ I'm great at working together, using clear communication to bridge the gap between tech and non-tech teams. Skilled in Java, Spring, Microservices, JavaScript, and ReactJS. Open to collaborating!<br><br>📚 I like keeping up with industry trends and tech updates.</p>
+<p align="left">✨ I'm a passionate and creative software developer who loves solving problems with elegant solutions. I've completed a Bachelor's degree in Computer Engineering and experience in full-stack web development.<br><br>✨ I'm great at working together, using clear communication to bridge the gap between tech and non-tech teams. Skilled in Java, Spring, Microservices, JavaScript, and ReactJS. Open to collaborating!<br><br>📚 I like keeping up with industry trends and tech updates.</p>
 
 ###
 
